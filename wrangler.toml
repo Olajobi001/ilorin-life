@@ -1,3 +1,8 @@
 name = "ilorin-life"
 main = "_worker.js"
 compatibility_date = "2025-01-01"
+
+
+[[d1_databases]]
+binding = "DB"
+database_id = "b69bb66d-eb15-4845-9eb1-8145bd8aeef3"
